@@ -77,6 +77,8 @@ nav{
     background-color: #00a2c6;
     padding: 5px;
     text-align: center;
+    position: sticky;
+    top: 0;
 }
 
 #content{
@@ -96,4 +98,8 @@ aside{
         padding: 0;
     }
     
+}
+
+header{
+    display: inline;
 }
